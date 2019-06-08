@@ -1,6 +1,6 @@
 import java.util.Scanner ;
 
-  public class k_ödev1 {
+  public class rakam_cevir {
     public static void main (String args [] ){
       int sayi,bas1,bas2,bas3  ;
       String bir,on,yuz;
